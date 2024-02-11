@@ -35,7 +35,7 @@ export default function Home() {
                   <h1 className="text-4xl">Toriqul</h1>
                   <p className=""> Developer</p>
                 </div>
-                <Image className="rounded-3xl mb-[30px]" src={'https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/411074347_1575848396577332_4331380925465508173_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFjliNsSVqEsxMCulUikP690igXI2MahrjSKBcjYxqGuEIqa0noBUffi6IGTbcnvtsXQZVG7mewRHjMzmsiLlrs&_nc_ohc=Xdr4NYTIJBwAX90CUlj&_nc_ht=scontent.fdac80-1.fna&oh=00_AfAiPrgaqa4-BsWj4yWdp9QLP8_LXsABLeNCvTZ81GTaEQ&oe=658BF29E'} height={500} width={500}/>
+                <Image className="rounded-3xl mb-[30px]" src={'https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/411074347_1575848396577332_4331380925465508173_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFjliNsSVqEsxMCulUikP690igXI2MahrjSKBcjYxqGuEIqa0noBUffi6IGTbcnvtsXQZVG7mewRHjMzmsiLlrs&_nc_ohc=SQm0layyKGUAX_3NAl3&_nc_ht=scontent.fdac24-4.fna&oh=00_AfDb58dZ02t7kpdTXxTUQWkOQ7iSJGb8qYnkvRYIZ_OCBA&oe=65CD34DE'} height={500} width={500}/>
                 <div className="text-center w-[100%]">
                 <h3 className="text-2xl ">hello@toriqul.design</h3>
                             <h3 className="text-2xl pb-[40px]">Based in Tejgaon, Dhaka</h3>  
